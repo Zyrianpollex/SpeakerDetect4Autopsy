@@ -16,7 +16,7 @@ python -m pip install -r requirements.txt
 
 4. install [CUDA](https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64) (optional but will be faster if you have a [supported GPU](https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64)) 
 
-5. in order to run the SpeakerDetect CMD with administrator permissions for the 1st time to download the pretrained models.
+5. when you're going to run the SpeakerDetecte app for the 1st time, do it using the CMD with administrator permissions, so it can download the pretrained models.
 
 | Arguments     | what does it do | is mandatory | usage |
 | --------------| ---- | ------------- | -----------------|
